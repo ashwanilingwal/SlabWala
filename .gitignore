@@ -1,0 +1,12 @@
+# Vercel CLI local state — never commit this, it's machine-specific
+.vercel
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# In case anyone adds tooling later
+node_modules/
